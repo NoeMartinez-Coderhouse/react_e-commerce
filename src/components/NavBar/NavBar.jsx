@@ -1,7 +1,7 @@
-import CartWidget from "../CartWidget"
+import CartWidget from "../CartWidget/CartWidget"
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import Menu from '../MenuContainer'
+import Menu from '../MenuContainer/MenuContainer'
 
 const NavBar = () => {
     return (
