@@ -6,7 +6,7 @@ const CartWidget = () => {
     return (
         <>
             <IconButton color='inherit'>
-                <Badge badgeContent={1} color="secondary" max="99">
+                <Badge badgeContent={1} color="secondary" max={99} >
                     <CartIcon />
                 </Badge> 
             </IconButton>
